@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|c:\\users\\dani\\source\\repos\\udemy_vb\\capapresentacion\\frempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|solutionrelative:capapresentacion\\frempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCF7B03-E1C5-40EF-A2C5-6066F5C14B03}|capaNegocio\\capaNegocio.vbproj|c:\\users\\dani\\source\\repos\\udemy_vb\\capanegocio\\cnempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CCF7B03-E1C5-40EF-A2C5-6066F5C14B03}|capaNegocio\\capaNegocio.vbproj|solutionrelative:capanegocio\\cnempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|c:\\users\\dani\\source\\repos\\udemy_vb\\capapresentacion\\frempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|solutionrelative:capapresentacion\\frempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|c:\\users\\dani\\source\\repos\\udemy_vb\\capapresentacion\\capapresentacion.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6914A554-8ECE-4F55-BD5D-751C23183EE5}|capaPresentacion\\capaPresentacion.vbproj|solutionrelative:capapresentacion\\capapresentacion.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F291C42C-FECB-4DFB-A2AC-58B84B6D442E}|capaDatos\\capaDatos.vbproj|c:\\users\\dani\\source\\repos\\udemy_vb\\capadatos\\cdempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F291C42C-FECB-4DFB-A2AC-58B84B6D442E}|capaDatos\\capaDatos.vbproj|solutionrelative:capadatos\\cdempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frEmpleados.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\frEmpleados.vb",
+              "RelativeDocumentMoniker": "capaPresentacion\\frEmpleados.vb",
+              "ToolTip": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\frEmpleados.vb [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\frEmpleados.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T20:06:32.981Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CNEmpleado.vb",
+              "DocumentMoniker": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaNegocio\\CNEmpleado.vb",
+              "RelativeDocumentMoniker": "capaNegocio\\CNEmpleado.vb",
+              "ToolTip": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaNegocio\\CNEmpleado.vb",
+              "RelativeToolTip": "capaNegocio\\CNEmpleado.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T20:05:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDEmpleado.vb",
+              "DocumentMoniker": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaDatos\\CDEmpleado.vb",
+              "RelativeDocumentMoniker": "capaDatos\\CDEmpleado.vb",
+              "ToolTip": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaDatos\\CDEmpleado.vb",
+              "RelativeToolTip": "capaDatos\\CDEmpleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T20:03:21.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "capaPresentacion",
+              "DocumentMoniker": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\capaPresentacion.vbproj",
+              "RelativeDocumentMoniker": "capaPresentacion\\capaPresentacion.vbproj",
+              "ToolTip": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\capaPresentacion.vbproj",
+              "RelativeToolTip": "capaPresentacion\\capaPresentacion.vbproj",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-02-27T22:49:08.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frEmpleados.vb",
+              "DocumentMoniker": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\frEmpleados.vb",
+              "RelativeDocumentMoniker": "capaPresentacion\\frEmpleados.vb",
+              "ToolTip": "C:\\Users\\Dani\\source\\repos\\Udemy_VB\\capaPresentacion\\frEmpleados.vb",
+              "RelativeToolTip": "capaPresentacion\\frEmpleados.vb",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwDIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T20:18:46.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
